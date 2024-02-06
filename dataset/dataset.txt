@@ -1,0 +1,11 @@
+https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd?resource=download
+https://www.kaggle.com/datasets/dheerajperumandla/drowsiness-dataset
+https://www.kaggle.com/datasets/rakibuleceruet/drowsiness-prediction-dataset
+https://www.kaggle.com/datasets/talhabhatti7262/drivers-drowsiness-detection
+https://www.kaggle.com/datasets/banudeep/nthuddd2
+https://www.kaggle.com/datasets/esrakavalci/sust-ddd
+https://www.kaggle.com/datasets/farisalwasle/driver-drowsiness-for-cnn-algo
+from drive https://drive.google.com/drive/folders/1tHLowkbP0lFgYOG6Ld1C644onBuE40Ko
+from sharepoint https://entuedu-my.sharepoint.com/personal/haohan_yang_staff_main_ntu_edu_sg/_layouts/15/onedrive.aspx?ga=1
+https://ieee-dataport.org/open-access/yawdd-yawning-detection-dataset
+
