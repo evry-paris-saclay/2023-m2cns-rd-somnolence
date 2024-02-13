@@ -13,6 +13,12 @@ Cependant, ces implémentations sont basées sur la surveillance de profils de c
 
 Dans ce projet, nous avons mis en place une solution de détection de la somnolence basé sur smartphone. Il se base sur les caractéristiques visuelles capturés à l'aide de la caméra du smartphone et du rythme cardiaque capturé à l'aide de montre intelligente. Ainsi, notre solution permet d'associer l'accurence du rythme cardiaque à la caméra pour obtenir un solution robuste et performant, permettant de venir à bout des problématiques (Mauvaise luminosité, position de la caméra) de la détection via caméra. De plus, vue que l'on propose d'utiliser une montre intelligente, on se repose sur un produit du quotidien , qui nous permet d'etre non invasive.
 
+<div align="center">
+  
+  <img src="">
+  
+</div>
+
 Notre solution comprend deux parties : 
 <ul>
   <li>La fusion de données basée sur l'ontologie pour la prise de décision en matière de somnolence </li>
@@ -24,6 +30,11 @@ Notre solution comprend deux parties :
 
 </ul>
 
+<div align="center">
+  
+  <img src="">
+  
+</div>
 
 # Prise en main du projet
 
