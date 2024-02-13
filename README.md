@@ -53,7 +53,7 @@ Pour la solution :
 
  <ul>
    
-  <li>Smarphone Xiami Mi 11</li>
+  <li>Xiami Mi 11 (Smarphone)</li>
   <li>Mi Band 5 (Montre intellligente)</li>
   <br>
  <div align="center">
