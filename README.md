@@ -16,7 +16,7 @@ Dans ce projet, nous avons mis en place une solution de détection de la somnole
 <div align="center">
   
   <img src="Photos/r&d.png">
-  
+   Présentation de la solution
 </div>
 
 Notre solution comprend deux parties : 
@@ -33,7 +33,7 @@ Notre solution comprend deux parties :
 <div align="center">
   
   <img src="Photos/systeme.png">
-  
+  Architecture de notre solution
 </div>
 
 # Prise en main du projet
