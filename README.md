@@ -54,8 +54,8 @@ A partir de détection l'utilisateur récoit une notification via <b>Telegram</b
 | ----------------------------------- | ----------------------------------- |
 | ![Notification1](https://github.com/hamadouncisse/PROJECT_MTSC_NODE_RED/blob/main/Screenshot_2024-01-22-19-29-46-619_org.telegram.messenger.jpg) | ![notification2](https://github.com/hamadouncisse/PROJECT_MTSC_NODE_RED/blob/main/Screenshot_2024-01-22-19-30-30-071_org.telegram.messenger.jpg) |
 
-La vidéo ci-dessus est la capture vidéo recu par l'utilisateur lors de la notification :
+La vidéo de demonstration du système est ci-dessous:
 
-https://github.com/hamadouncisse/PROJECT_MTSC_NODE_RED/assets/104743493/2e5cb2b3-abe7-4068-81bc-81823f9251ba
+https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/blob/8702c545eec4cbc1ec4bf66c7aa446bc0a202047/Video/tempWhatsApp.mp4
 
 
