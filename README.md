@@ -51,7 +51,9 @@ Notre solution comprend deux parties :
 
 Pour telecharger le projet, il suffit de cloner le projet en utilisant git. La commande est la suivante :
 
-`` git clone  ``
+`` git clone  https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence.git ``
+
+Ensuite 
 
 # Amélioration à faire sur le projet
 
