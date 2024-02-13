@@ -54,6 +54,7 @@ Pour la solution :
    
   <li>Xiami Mi 11 (Smarphone)</li>
   <li>Mi Band 5 (Montre intellligente)</li>
+  <li>API android minimum 31</li>
   <br>
  <div align="center">
    <img src="Photos/installation 2.jpeg">
