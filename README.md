@@ -55,7 +55,7 @@ Pour la solution :
    
   <li>Smarphone Xiami Mi 11</li>
   <li>Mi Band 5 (Montre intellligente)</li>
-
+  <br>
  <div align="center">
    <img src="Photos/installation 2.jpeg">
    Prototype finale de la solution
