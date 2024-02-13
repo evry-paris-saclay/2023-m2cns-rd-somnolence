@@ -42,7 +42,6 @@ Notre solution comprend deux parties :
 
 Pour le developpement :
 <ul>
-  Pour
   <li>PC ACER 16GB RAM </li>
   <li>Windows 11</li>
   <li>Android Studio Hedgehog | 2023.1.1</li>
@@ -74,6 +73,15 @@ Pour telecharger le projet, il suffit de cloner le projet en utilisant git dans 
 
 Il est important de spécifier que le code de la solution incluant toutes les fonctionalités se trouve dans <b>2023-m2cns-rd-somnolence/src/android/somnolence.zip</b>, il faut le décompresser et l'ouvrir avec android studio.
 A partir de celà, on peut modifier le projet comme on veut.
+
+
+<b>Bibliothèque utilisé dans android studio</b>
+
+<b>Explication du code</b>
+
+<b>Paramètre à changer</b>
+
+<b>Génération de l'apk pour lancer le projet sur son téléphone</b>
 
 
 
