@@ -138,7 +138,10 @@ Pour utiliser le scritp shell, il suffit de se rendre dans le répertoire datase
 
   <li><b>Amélioration de l'application android</b></li>
 
-  <li><b>Introduire la notion de stockage pour le stockage</b></li>
+  Une des principales améliorations à faire est d'implementer la fonctionnalité permettant à la solution de s'executer en background sans ampiété sur les autres applications de l'utilisateur. 
+
+  <li><b>Introduire la notion de cloud pour le stockage</b></li>
+  
 
    <li><b>Géneralisation de la communication avec d'autres  type de montre intélligente</b></li>
 
