@@ -18,7 +18,9 @@ Cependant, ces implémentations sont basées sur la surveillance de profils de c
 
 <ul>
   
-  <li>Développement d'un modèle dédié à la detection de la somnolence</li>
+  <li>Développement d'un modèle dédié à la detection de la somnolence via la caméra </li>
+  La solution développé actuellement n'utilise pas de modèle dédié à la détection de la somnolence via la caméra. Il se base sur le modèle de dectection de visage de MLKIT développé par Google.
+  Le principe consiste à utiliser le modèle de detection de visage pour déterminer le pourcentage de fermeture des yeux et d'ouverture de la bouche pour determiner si la personne somnole. A partir d'un certain nombre de condition, on arrive à avoir une solution qui fonctionne bien. Cépendant malgré nos bons résultats, c'est pas une solution vraiment dédié à la detection de somnolence. Ainsi, on prévoit de dévolopper notre propre modèle pour améliorer la robustesse de la solution. On a récueilli un certains nombre de dataset pouvant etre utiliser pour l'entrainement d'un modèle. On retrouve le lien de ces datasets dans le repertoire /Dataset. Il ya aussi un script shell pour télecharger ces datasets et les dezipper selon le répertoire de son choix. 
 
 <ul>
   
