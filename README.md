@@ -89,6 +89,30 @@ A partir de celà, on peut modifier le projet comme on veut.
 
 
 
+
+
+
+# Démonstration :
+
+
+
+A partir de détection l'utilisateur récoit une notification via <b>Telegram</b> :
+
+| Capture d'ecran 1                            | Capture d'écran  2                        |
+| ----------------------------------- | ----------------------------------- |
+| ![Notification1](link2) | ![notification2](link) |
+
+La vidéo de demonstration du système est ci-dessous:
+
+<div align="center">
+  
+<video align="center" src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/84a6167d-630b-4e61-8c9a-2b403d299620">
+
+</div>
+
+
+
+
 # Amélioration à faire sur le projet
 
 <ul>
@@ -119,28 +143,6 @@ Pour utiliser le scritp shell, il suffit de se rendre dans le répertoire datase
    <li><b>Géneralisation de la communication avec d'autres  type de montre intélligente</b></li>
 
 </ul>
-
-
-
-
-
-# Démonstration :
-
-
-
-A partir de détection l'utilisateur récoit une notification via <b>Telegram</b> :
-
-| Capture d'ecran 1                            | Capture d'écran  2                        |
-| ----------------------------------- | ----------------------------------- |
-| ![Notification1](link2) | ![notification2](link) |
-
-La vidéo de demonstration du système est ci-dessous:
-
-<div align="center">
-  
-<video align="center" src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/84a6167d-630b-4e61-8c9a-2b403d299620">
-
-</div>
 
 
 
