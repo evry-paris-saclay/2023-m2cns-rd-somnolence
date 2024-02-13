@@ -141,9 +141,12 @@ Pour utiliser le scritp shell, il suffit de se rendre dans le répertoire datase
   Une des principales améliorations à faire est d'implementer la fonctionnalité permettant à la solution de s'executer en background sans ampiété sur les autres applications de l'utilisateur. 
 
   <li><b>Introduire la notion de cloud pour le stockage</b></li>
-  
 
+  Pouvoir stocker les données de detection du smarphone(images et rythme cardiaque) sur le cloud pourrait un etre un atout pour avoir un modèle evolitif. On pourrait juste envoyer sur le cloud les données anonymisé de l'utilisateur dans un grand dataset sur le clou, qu'on utilisera pour entrainer notre modèle. A la fin de l'entrainement,on pourrait mettrre à jour le modèle présent sur le téléphone de l'utilisateur à partir d'une mise à jour.
+  
    <li><b>Géneralisation de la communication avec d'autres  type de montre intélligente</b></li>
+
+   Actuellement notre solution ne prend en charge que <b>les montres Mi band 4 et 5 </b>, il faudrait se pencher sur le sujet en vue de pouvoir intégrer toutes les montres intelligentes ou moins la majorité.
 
 </ul>
 
