@@ -1,3 +1,9 @@
+La liste des datasets pouvant etre utilisé pour entrainer un modèle de detection de somnolence.
+
+Ces datasets doivent necessiter un prétraitement pour avoir un modèle performent.
+
+
+
 https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd?resource=download
 https://www.kaggle.com/datasets/dheerajperumandla/drowsiness-dataset
 https://www.kaggle.com/datasets/rakibuleceruet/drowsiness-prediction-dataset
