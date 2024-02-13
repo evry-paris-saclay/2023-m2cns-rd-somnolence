@@ -44,7 +44,14 @@ Notre solution comprend deux parties :
   <li>PC ACER 16GB RAM </li>
   <li>Windows 11</li>
   <li>Android Studio Hedgehog | 2023.1.1</li>
+   <li>Git</li>
 </ul>
+
+<b> Téléchargement du projet</b>
+
+Pour telecharger le projet, il suffit de cloner le projet en utilisant git. La commande est la suivante :
+
+`` git clone  ``
 
 # Amélioration à faire sur le projet
 
