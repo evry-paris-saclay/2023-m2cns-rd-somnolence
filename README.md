@@ -48,9 +48,9 @@ Cependant, ces implémentations sont basées sur la surveillance de profils de c
 
 A partir de détection l'utilisateur récoit une notification via <b>Telegram</b> :
 
-| Notification 1                            | Notification  2                        |
+| Capture d'ecran 1                            | Capture d'écran  2                        |
 | ----------------------------------- | ----------------------------------- |
-| ![Notification1](https://github.com/hamadouncisse/PROJECT_MTSC_NODE_RED/blob/main/Screenshot_2024-01-22-19-29-46-619_org.telegram.messenger.jpg) | ![notification2](https://github.com/hamadouncisse/PROJECT_MTSC_NODE_RED/blob/main/Screenshot_2024-01-22-19-30-30-071_org.telegram.messenger.jpg) |
+| ![Notification1](link2) | ![notification2](link) |
 
 La vidéo de demonstration du système est ci-dessous:
 
