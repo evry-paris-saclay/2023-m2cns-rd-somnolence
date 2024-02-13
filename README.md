@@ -11,12 +11,26 @@ Cependant, ces implémentations sont basées sur la surveillance de profils de c
 
 # Description de la solution
 
+Dans ce projet, nous avons mis en place une solution de détection de la somnolence basé sur smartphone. Il se base sur les caractéristiques visuelles capturés à l'aide de la caméra du smartphone et du rythme cardiaque capturé à l'aide de montre intelligente. Ainsi, notre solution permet d'associer l'accurence du rythme cardiaque à la caméra pour obtenir un solution robuste et performant, permettant de venir à bout des problématiques (Mauvaise luminosité, position de la caméra) de la détection via caméra. De plus, vue que l'on propose d'utiliser une montre intelligente, on se repose sur un produit du quotidien , qui nous permet d'etre non invasive.
 
+Notre solution comprend deux parties : 
+<ul>
+  <li>la fusion de données basée sur l'ontologie pour la prise de décision en matière de somnolence </li>
+
+  <li>Une solution non invasive basée sur l'IoT à faible coût pour la détection de la somnolence.</li>
+
+</ul>
 
 
 # Prise en main du projet
 
+<b> Environnement de développement </b>
 
+<ul>
+  <li>PC ACER 16GB RAM </li>
+  <li>Windows 11</li>
+  <li>Android Studio Hedgehog | 2023.1.1</li>
+</ul>
 
 # Amélioration à faire sur le projet
 
@@ -37,6 +51,9 @@ Pour utiliser le scritp shell, il suffit de se rendre dans le répertoire datase
 
 
   <li><b>Amélioration de l'ontologie</b></li>
+
+  Dans la version actuelle de la solution, les règles dans l'ontologie ne prennent en compte que l'impact que peuvent avoir la température, les heures de conduites dangereuses, et les jours et les dates désignés comme dangereuse.
+  On 
 
   <li><b>Amélioration de l'application android</b></li>
 
