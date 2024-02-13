@@ -7,15 +7,4 @@ La solution développée aura le potentiel d’améliorer la sécurité et de sa
 
 Cependant, ces implémentations sont basées sur la surveillance de profils de conduite irréguliers, par exemple des mouvements irréguliers du volant et des déviations de voie indiquant que le conducteur commence à avoir sommeil. Souvent, ces profiles erratiques ne sont détectés qu’à des stades avancés de somnolence. Dans ce projet, l’idée est plutôt d’exploiter des modalités qui permettent de détecter la somnolence dans des phases précoces à l’aide, par exemple, de caméras embarquées ou de capteurs de rythmes cardiaques qui monitorent le conducteur de manière continue.
 
-***************Utilisation du script en Shell Tutoriel *****************
-Utilisation du script 
-
-1- Ouvrir un éditeur 
-2- Copier coller le code et enregistrer le de cette forme .\download_all_datasets.bat
-3- Retrouver le chemin ou il se trouve , par exemple si vous avez mis sur le bureau c 'est 
-cd C:\Users\iae04\Desktop
-4- Run .\download_all_datasets.bat
-
-Voilà c'est tout
-
-<b> Encadrants : Massinissa HAMIDI (massinissa.hamidi@univ-evry.fr) </b>
+<b> Encadrant : Massinissa HAMIDI (massinissa.hamidi@univ-evry.fr) </b>
