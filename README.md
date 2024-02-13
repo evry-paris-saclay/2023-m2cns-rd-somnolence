@@ -15,9 +15,12 @@ Dans ce projet, nous avons mis en place une solution de détection de la somnole
 
 Notre solution comprend deux parties : 
 <ul>
-  <li>la fusion de données basée sur l'ontologie pour la prise de décision en matière de somnolence </li>
+  <li>La fusion de données basée sur l'ontologie pour la prise de décision en matière de somnolence </li>
+  
+  Notre solution est basée sur la surveillance du rythme cardiaque et des caractéristiques visuelles du conducteur. Nous utilisons un modèle de classification spécifique pour chaque type de mesure. Le résultat de chaque modèle est ensuite transmis à l'ontologie pour la prise de décision. D'autre part, nous recueillons des informations sur l'environnement et la conduite, qui sont fournies à l'ontologie pour améliorer sa prise de décision. Ces informations comprennent les conditions météorologiques, la durée de la conduite et l'heure. L'ensemble {résultat du modèle de fréquence cardiaque, résultat du modèle de caractéristiques visuelles, conditions météorologiques, durée de la conduite, heure} est utilisé pour le raisonnement, à l'issue duquel le niveau de somnolence est déterminé.
 
   <li>Une solution non invasive basée sur l'IoT à faible coût pour la détection de la somnolence.</li>
+  Notre solution se déploit sur smartphone ne necessitant aucun autre dispositif. Pour fonctionner,il nécessite au moins l'utilisation de la caméra ou de la montre. Les montres peuvent être utilisées à l'intérieur et à l'extérieur de la voiture, ce qui constitue une option moins invasive pour les conducteurs qui en possèdent déjà une. Cela permet de tirer parti des appareils existants et de garantir la facilité d'utilisation. En outre, les capteurs de fréquence cardiaque sont des caractéristiques de base de toutes les montres intelligentes.Nous avons éssayer de travailler sur des montres low-cost afin de proposer une solution pouvant etre abordable. Fusionner le rythme cardiaque avec la caméra a permet d'avoir une solution robuste. 
 
 </ul>
 
@@ -58,6 +61,8 @@ Pour utiliser le scritp shell, il suffit de se rendre dans le répertoire datase
   <li><b>Amélioration de l'application android</b></li>
 
   <li><b>Introduire la notion de stockage pour le stockage</b></li>
+
+   <li><b>Géneralisation de la communication avec d'autres  type de montre intélligente</b></li>
 
 </ul>
 
