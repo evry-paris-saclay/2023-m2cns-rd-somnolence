@@ -17,12 +17,17 @@ Cependant, ces implémentations sont basées sur la surveillance de profils de c
 # Amélioration à faire sur le projet
 
 <ul>
+  
   <li>Développement d'un modèle dédié à la detection de la somnolence</li>
 
-          <ul>
-              <li>download_all_datasets.bat</li>
-              <li> Run .\download_all_datasets.bat</li>
-        </ul>
+<ul>
+  
+<li>download_all_datasets.bat</li>
+
+<li> Run .\download_all_datasets.bat</li>
+
+</ul>
+
   <li>Amélioration de l'ontologie</li>
 
   <li>Amélioration de l'application android</li>
