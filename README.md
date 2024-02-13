@@ -41,10 +41,14 @@ Notre solution comprend deux parties :
 <b> Environnement de développement </b>
 
 <ul>
+  
   <li>PC ACER 16GB RAM </li>
   <li>Windows 11</li>
   <li>Android Studio Hedgehog | 2023.1.1</li>
    <li>Git</li>
+  <li>Smarphone Xiami Mi 11</li>
+  <li>Mi Band 5 (Montre intellligente)</li>
+  
 </ul>
 
 <b> Téléchargement du projet</b>
