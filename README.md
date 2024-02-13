@@ -85,6 +85,9 @@ A partir de celà, on peut modifier le projet comme on veut.
 <b>Génération de l'apk pour lancer le projet sur son téléphone</b>
 
 
+# Difficultés rencontrés sur le projet 
+
+
 
 # Amélioration à faire sur le projet
 
