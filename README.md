@@ -44,9 +44,7 @@ Cependant, ces implémentations sont basées sur la surveillance de profils de c
 
 # Démonstration :
 
-La figure suivante décrit la détection d'une personne lors d'une capture de trame par les deux caméras IP :
 
-![Alt text](https://github.com/hamadouncisse/PROJECT_MTSC_NODE_RED/blob/main/Screenshot%20from%202024-01-22%2019-22-43.png "menu import")
 
 A partir de détection l'utilisateur récoit une notification via <b>Telegram</b> :
 
@@ -56,6 +54,6 @@ A partir de détection l'utilisateur récoit une notification via <b>Telegram</b
 
 La vidéo de demonstration du système est ci-dessous:
 
-https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/blob/8702c545eec4cbc1ec4bf66c7aa446bc0a202047/Video/tempWhatsApp.mp4
+
 
 
