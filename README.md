@@ -33,7 +33,7 @@ Cependant, ces implémentations sont basées sur la surveillance de profils de c
 
 Pour utiliser le scritp shell, il suffit de se rendre dans le répertoire dataset et executer cette commande : 
 
-  '' .\download_all_datasets.bat ''
+`` .\download_all_datasets.bat ``
 
 
   <li><b>Amélioration de l'ontologie</b></li>
