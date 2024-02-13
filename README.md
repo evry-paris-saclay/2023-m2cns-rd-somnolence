@@ -40,16 +40,30 @@ Notre solution comprend deux parties :
 
 <b> Environnement de développement </b>
 
+Pour le developpement :
 <ul>
-  
+  Pour
   <li>PC ACER 16GB RAM </li>
   <li>Windows 11</li>
   <li>Android Studio Hedgehog | 2023.1.1</li>
    <li>Git</li>
+</ul>
+
+Pour la solution :
+
+ <ul>
+   
   <li>Smarphone Xiami Mi 11</li>
   <li>Mi Band 5 (Montre intellligente)</li>
+
+ <div align="center">
+   <img src="Photos/installation 2.jpeg">
+   Prototype finale de la solution
+ </div>
   
 </ul>
+
+
 
 <b> Téléchargement du projet</b>
 
