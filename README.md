@@ -49,11 +49,15 @@ Notre solution comprend deux parties :
 
 <b> Téléchargement du projet</b>
 
-Pour telecharger le projet, il suffit de cloner le projet en utilisant git. La commande est la suivante :
+Pour telecharger le projet, il suffit de cloner le projet en utilisant git dans le repertoire de son choix. La commande est la suivante :
 
 `` git clone  https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence.git ``
 
-Ensuite 
+
+Il est important de spécifier que le code de la solution incluant toutes les fonctionalités se trouve dans <b>2023-m2cns-rd-somnolence/src/android/somnolence.zip</b>, il faut le décompresser et l'ouvrir avec android studio.
+A partir de celà, on peut modifier le projet comme on veut.
+
+
 
 # Amélioration à faire sur le projet
 
