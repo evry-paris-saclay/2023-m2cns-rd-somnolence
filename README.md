@@ -54,7 +54,7 @@ A partir de détection l'utilisateur récoit une notification via <b>Telegram</b
 
 La vidéo de demonstration du système est ci-dessous:
 
-https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/84a6167d-630b-4e61-8c9a-2b403d299620
+<video src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/84a6167d-630b-4e61-8c9a-2b403d299620">
 
 
 
