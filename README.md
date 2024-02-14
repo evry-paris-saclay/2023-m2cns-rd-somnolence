@@ -310,6 +310,44 @@ Utilisation de notre solution lorsque la montre n'est pas disponible  :
 
 </div>
 
+Utilisation de notre solution lorsque la montre et la camera sont disponibles  (condition idéale) :
+
+<div align="center">
+
+| Somnolent                             | Normal                      |
+| ----------------------------------- | ----------------------------------- |
+| ![Somnolent](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/38285872-141e-4a7b-ace7-16e26e0b8cfe) | ![Normal](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/4f5d4617-89e1-4935-89cc-1bca0d7c56af)|
+
+</div>
+
+Utilisation de notre solution lorsque la montre et la camera sont disponibles  (hors cadre) :
+
+<div align="center">
+
+| Somnolent                             | Normal                      |
+| ----------------------------------- | ----------------------------------- |
+| ![Somnolent](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/9ea36ca4-59ac-4402-bc94-c5b1d60b9210) | ![Normal](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/0315ac0e-81f2-4372-8900-7f74f18d51a3)|
+
+</div>
+
+Utilisation de notre solution lorsque la montre et la camera sont disponibles  (éclairage mauvais) :
+
+<div align="center">
+
+| Somnolent                             | Normal                      |
+| ----------------------------------- | ----------------------------------- |
+| ![Somnolent](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/97b1954f-df52-4d3c-9c9d-34e60694f365) | ![Normal](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/040c64aa-9ad0-417b-a934-f8fc06469d74)|
+
+</div>
+
+<b>Toutes les tests positifs de somnolence ont reussi car j'essayais vraiment de dormir. Cela est possible à cause du fait que j'avais effectué une nuit blanche. Lorsque j'essayais vraiment de dormir, je voyais une baisse de mon rythme cardiaque.</b>. 
+
+La figure ci dessous décrit une scène ou j'ecoutais ma chanson de motivation préféré, j'ai pas reussi à berner le système en faisant semblant :
+<div align="center">
+![Screenshot_2024-02-14-13-50-56-496_com example somnolence](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/175f9576-f9a5-43b4-be08-1d7e7436edf1)
+
+
+</div>
 
 La vidéo de demonstration du système est ci-dessous:
 
