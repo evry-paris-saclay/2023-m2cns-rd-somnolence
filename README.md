@@ -266,9 +266,9 @@ Avec succés, cela a marché. Les images suivantes décrivent la procédure de r
 
 <div align="center">
   
-![IMG_20240201_174448](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/e4ef2e83-6d78-4bbf-b9ae-d0ea998444bf)
+<img src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/e4ef2e83-6d78-4bbf-b9ae-d0ea998444bf"  width="40%" height="500px">
 
-![IMG_20240201_174245](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/967d0d06-d94b-49fc-a387-65498824ce38)
+<img src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/967d0d06-d94b-49fc-a387-65498824ce38"  width="40%" height="500px">
 
 
 Extrait de la séance de remplacement de la batterie (<b>A ne pas reproduire</b>)
@@ -345,7 +345,7 @@ Utilisation de notre solution lorsque la montre et la camera sont disponibles  (
 La figure ci dessous décrit une scène ou j'ecoutais ma chanson de motivation préféré, j'ai pas reussi à berner le système en faisant semblant :
 <div align="center">
   
-<img src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/175f9576-f9a5-43b4-be08-1d7e7436edf1 width="80%" height="500px">
+<img src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/175f9576-f9a5-43b4-be08-1d7e7436edf1" width="40%" height="500px">
 
 
 </div>
