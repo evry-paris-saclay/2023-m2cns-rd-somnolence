@@ -82,11 +82,17 @@ A partir de celà, on peut modifier le projet comme on veut.
 L'ontologie a développée sur android en utilisant la bibliothèque <a href="https://chaquo.com/chaquopy/"><b>Chaquopy</b></a>. C'est une biblithèque géniale qui permet d'executer du python sur android. Ensuite, on a utilisé la librairie python <b>OWL ready 2</b> pour créer et gérer notre ontologie.
   </li>
   <li><b>Detection de la somnolence par caméra</b><br>
-    Pour cette fonctionnalité, on a utilisé la librairie <a href="https://developers.google.com/ml-kit?hl=fr"><b>MLKit</b></a> développé par google. Elle permet d'utilisé des modèle déja entrainé pour des taches telles que la détection de visage, d'object, de code barre et autres.
+    Pour cette fonctionnalité, on a utilisé la librairie <a href="https://developers.google.com/ml-kit?hl=fr"><b>MLKit</b></a> développé par google. Elle permet d'utiliser des modèles déja entrainé pour des tâches  telles que la détection de visage, d'object, de code barre et autres.
   </li>
-  <li><b>Detection de la somnolence par smartphone</b><br>
+  <li><b>Communication et detection de la somnolence par montre intelligente</b><br>
+  On a utilisé le package <a href="https://developer.android.com/develop/connectivity/bluetooth/ble/ble-overview"><b>Bluetooth Low Energy  (BLE)</b></a> définit dans android pour communiquer avec notre montre. Les données sont ensuites récuillis via le protocole BLE. Ensuite concernant la détection de la somnolence via le rythme cardiaque, on s'est basé sur l'étude :
+    
+    Ashiqur Rahman, Mamun Bin Harun Hriday, Riasat Khan, Computer vision-based approach to detect fatigue driving and face mask for edge computing device, Heliyon, Volume 8, Issue 10,2022,e11204,ISSN 2405-8440,https://doi.org/10.1016/j.heliyon.2022.e11204
+
+ <b> Leur travail spécifie qu'une personne fatigué a un BPM génerallement inférieur à 67.</b>
   </li>
   <li><b>Alerting</b><br>
+  Pour l'alerting, notre solution se base sur l'utilisation du package <a href="https://developer.android.com/media/platform/mediaplayer"><b>MediaPlayer</b></a> pour génerer des notifications audio depuis le téléphone.
   </li>
 </ul>
 
