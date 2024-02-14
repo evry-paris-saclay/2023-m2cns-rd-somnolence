@@ -53,7 +53,7 @@ Pour la solution :
  <ul>
    
   <li>Xiami Mi 11 (Smarphone)</li>
-  <li>Mi Band 5 (Montre intellligente)</li>
+  <li>Mi Band 5 (Montre intellligente) avec un prix de 50 euros</li>
   <li>Minimum Android 12 (niveaux d'API 31)</li>
   <br>
  <div align="center">
@@ -198,15 +198,40 @@ L'une des premières problématiques qu'on devait resoudre était d'effectuer de
  </div>
 
    
-   </li>
+   </li> 
+</ul>
 
+> Les montres intelligentes  :
 
-   
+Cela fut la partie la plus longue de notre travail. Intégrer une montre intelligente et capturer le rythme cardiaque.
+Vue que la base de notre solution était une solution low-cost accéssible à tout le monde. 
+
+  On s'est rendue que tous les montres sur le marché communiquait sur des applications propriétaires. Les données ne sont accéssibles que par ces appplications. Cependant dans notre architecture, on se proposait d'utiliser <b>Google Health connect</b> qui est une API proposé par google permettant de centraliser les données de santés, incluant le rythme cardiaque au meme endroit. Toutes applications propriétaires ne l'intègre pas encore mais cela risque d'etre la norme dans le futur. L'inconvéniant avec cette situation est qu'on savait pas la fréquence de synchronisation, elle depend de l'application propriétaire avec laquelle communique la montre. Or notre proposition repose sur du temps réel. On a décider de mettre à coté google health connect.
+
+Cépendant d'après de nombreuses recherches, on a découvert qu'ils était très facile de lier une montre de la marque <b>red mi 2</b> à notre système. Vue que c'est une montre qui date de 2016, elle n'est plus le marché. On a fini par trouver 1 en vente sur un site de vente en ligne.
+
+<ul>
+
+<li><b><a href="https://www.cdiscount.com/telephonie/objets-connectes/td-r-bracelet-intelligent-de-sport-montre-l-heure/f-144710404-tec5516277969070.html">TD bracelet intelligent</a></b><br>
+Quelques jours, après l'achat le vendeur nous a contacté pour nous prévenir que le produit était en rupture de stock, et nous a proprosé un produit de remplacement avec les  mêmes performences.
+
+A la réception du produit, on s'est rendu qu'il était impossible de communiquer avec la montre. Et de plus qu'à chaque fois pour lire le ryhme cardiaque, il fallait aller dans le menu de la montre et lancer le démarrage de la lecture.
+
+Dans l'application proprétaire de la montre, on pouvait pas lier les données dans google health connect.
+
+Donc la montre était inutile pour notre solution.
+
+</li>
+
+<li>
+  
+</li>
+
+  
 </ul>
 
 
-
-
+  
 
 
 
@@ -215,7 +240,7 @@ L'une des premières problématiques qu'on devait resoudre était d'effectuer de
 
 
 
-A partir de détection l'utilisateur récoit une notification via <b>Telegram</b> :
+Utilisation de notre solution lorsque la camera n'est pas disponible  :
 
 <div align="center>
 
@@ -240,6 +265,11 @@ La vidéo de demonstration du système est ci-dessous:
 
 <ul>
 
+  <li><b>Faire la connexion entre les deux codes présent dans /src/android </b> </li>
+
+Il reste à finaliser l'intégration de l'ontologie dans le code présent dans somnolence_final afin d'avoir un seul code source. Compte tenu du terme temps, nous n'avons pas finaliser l'intégration. Cépendant, beaucoup de règle de l'ontologie sont déjà intégrés dans le code actuel de somnolence_final.
+
+  
   <li><b>Evaluation de notre solution</b> </li>
   
   La prémière chose à faire pour améliorer cet projet est d'effectuer une évaluation avec les produits existants. <b>A notre connaissance, nous n'avons pas pu trouver de solution basé sur smartphone combinant le rythme cardiaque, les caractéristiques faciaux et une ontologie pour la détection de la somnolence</b>. Cépendant une évaluation pourrait vraiment determiner la robustesse de la solution et conduire à améliorer considérablement les performences pour obténir un système complet.
