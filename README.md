@@ -91,11 +91,14 @@ L'ontologie a développée sur android en utilisant la bibliothèque <a href="ht
 
  <b> Leur travail spécifie qu'une personne fatigué a un BPM génerallement inférieur à 67.</b>
   </li>
+  
   <li><b>Alerting</b><br>
+    
   Pour l'alerting, notre solution se base sur l'utilisation du package <a href="https://developer.android.com/media/platform/mediaplayer"><b>MediaPlayer</b></a> pour génerer des notifications audio depuis le téléphone.
   </li>
 
-    <li><b>Météo</b><br>
+<li><b>Météo</b><br>
+  
  Pour la météo, on a utilisé API de <a href="https://openweathermap.org/api"><b>Open Weather</b></a>. C'est un site qui propose une api pour obtenir la météo à temps réel en spécifiant une localisation. Le site décrit de manière génerale comment utiliser l'API.
   </li>
   
@@ -108,17 +111,30 @@ C'est elle qui permet d'effetuer la configuration et le démarrage du code pour 
 
 <img width="954" alt="image" src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/e3e4570f-4384-4e8d-b285-3fcac1261f82">
 
-Pour la communication,  
+Pour executer le code, il ya pas grand chose à changer à part quelques paremètres.
 
-  
+Les classes qui concernent la communication avec la montre sont :
+<ul>
+  li>GattIO permet d'assurer l'ecriture et la lecture (traduction) vers et depuis la montre. C'est elle qui assure le protocole de communication (cryptage et autres).</li>
+ <li>MiBand permet de se connecter à la montre et capturer des données à temps réel.</li> 
+  <li>Uuid contient l'ensemble des identifiants des services fournis par la montre.</li> 
 </ul>
 
-
+Pour la detection de somnolence depuis la montre, on fait une juste une comparaison du rythme cardiaque à la reception.
 
 <b>Paramètre à changer</b>
 
 <b>Génération de l'apk pour lancer le projet sur son téléphone</b>
 
+Pour la detection de la somnolence depuis la camera, on utilise les classes :
+<ul>
+  <li>CameraXViewModel est une classe étend AndroidViewModel pour gérer des données liées à l'interface utilisateur.</li> 
+  <li>facedetector/drowsy contient notre fonction pour detecter la somnolence en utilisant le pourcentage de fermeture des yeux.</li>
+  <li>facedetector/FaceBox permet de dessiner la boxe autour du visage de l'utilisateur lorsqu'il est detecter.</li>
+  <li>facedetector/FaceBoxOverlay effectue l'operation de dessin initié la classe Facebox</li>
+</ul>
+
+Les repertoires data et utils sont utilisés pour récuperer la météo depuis l'api open weather.
 
 # Difficultés rencontrés sur le projet 
 
@@ -133,10 +149,14 @@ Pour la communication,
 
 A partir de détection l'utilisateur récoit une notification via <b>Telegram</b> :
 
+<div align="center>
+
 | Capture d'ecran 1                            | Capture d'écran  2                        |
 | ----------------------------------- | ----------------------------------- |
 | ![Notification1](link2) | ![notification2](link) |
 
+
+</div>
 La vidéo de demonstration du système est ci-dessous:
 
 <div align="center">
