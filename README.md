@@ -181,6 +181,17 @@ L'une des premières problématiques qu'on devait resoudre était d'effectuer de
    Cependant, on s'est rétrouvé au meme problème, ils sont tous dépréciés et c'est impossible de les utiliser dans la version actuelle d'android.
    
    </li>
+
+    <li><b>Implementer l'ontologie sur un serveur et y acceder depuis le smartphone en utilisant une API</b><br>
+     
+   Pour eviter toute les complications de raisoneur, on a implémenté l'ontologie sous forme d'API. Cépendant on s'est rendue compte qu'à chaque raisonement, on se retrouve avec un temps d'attente très longue.
+
+   
+   
+   </li>
+
+
+   
 </ul>
 
 
