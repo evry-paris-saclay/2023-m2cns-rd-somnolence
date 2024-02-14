@@ -79,9 +79,10 @@ A partir de celà, on peut modifier le projet comme on veut.
 <b>Bibliothèque utilisé dans android studio</b>
 <ul>
   <li><b>Ontologie</b><br>
-L'ontologie 
+L'ontologie a développée sur android en utilisant la bibliothèque <a href="https://chaquo.com/chaquopy/"><b>Chaquopy</b></a>. C'est une biblithèque géniale qui permet d'executer du python sur android. Ensuite, on a utilisé la librairie python <b>OWL ready 2</b> pour créer et gérer notre ontologie.
   </li>
   <li><b>Detection de la somnolence par caméra</b><br>
+    Pour cette fonctionnalité, on a utilisé la librairie <a href="https://developers.google.com/ml-kit?hl=fr"><b>MLKit</b></a> développé par google. Elle permet d'utilisé des modèle déja entrainé pour des taches telles que la détection de visage, d'object, de code barre et autres.
   </li>
   <li><b>Detection de la somnolence par smartphone</b><br>
   </li>
