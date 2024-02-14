@@ -298,12 +298,10 @@ Utilisation de notre solution lorsque la camera n'est pas disponible  :
 
 <div align="center>
 
-| Capture d'ecran 1                            | Capture d'écran  2                        |
+| Somnolent                             | Normal                      |
 | ----------------------------------- | ----------------------------------- |
 
-| ![Screenshot_2024-02-14-13-55-04-805_com example somnolence](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/282fa0ad-683a-47d9-87a7-d452d28c81a6)
-
- | ![Screenshot_2024-02-14-13-52-18-948_com example somnolence](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/49c3e5b4-84ec-43f0-ac63-263bc4d1adea)
+| ![Somnolent](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/282fa0ad-683a-47d9-87a7-d452d28c81a6) | ![Normal](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/49c3e5b4-84ec-43f0-ac63-263bc4d1adea)
  
 |
 
