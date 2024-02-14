@@ -159,9 +159,31 @@ La video sur le <a href="https://www.youtube.com/watch?v=RKwFWDFMZME">lien</a> d
 
 # Difficultés rencontrés sur le projet 
 
-> Ontologie  :
+> Le raisonneur pour l'ontologie  :
 
-L'une des premières problématiques qu'on devait resoudre était d'implementer l'ontologie sur le smartphone.
+L'une des premières problématiques qu'on devait resoudre était d'effectuer des raisonnements sur notre ontologie sur le smartphone. Après avoir finalement reussi à faire fonctionner notre ontologie sur android grace à la bibliothèque Chaquopy. On s'était cogner au problème d'effectuer des inférences. Le raisonneur dans Owlready 2 avait besoin de la présence d'une <b>JVM</b> pour fonctionner. Or, sur android on n'a qu'une <b>DVM</b>. Pour resoudre cela, nous avons explorer plusieurs solution.
+
+<ul>
+  
+  <li><b>Utiliser la librairie android: <a href="https://github.com/lencinhaus/androjena">AndroJena</a></b><br>
+
+  On s'est retrouver dans l'incapacité de l'utiliser suite au fait que cela faisait des annnées que la librairie n'a pas été mise à jour (14 ans). 
+  
+  </li>
+  
+  <li><b>Avec Chaquopy, Utiliser <a href="https://cognipy.org/">Cognipy</a> à la place de OWL ready 2</b><br>
+  
+  C'est une librairie python pour faire implémenter des ontologies et aussi inferer. Après plusieurs, de tentatives sans succés, on a appris qu'elle ne fonctionne qu'avec un notebook python.
+  </li>
+  
+   <li><b>Utiliser d'autres raisonneur <a href="http://sid.cps.unizar.es/AndroidSemantic/Reasoners/reasoners.html">Lien</a></b><br>
+     
+   Cependant, on s'est rétrouvé au meme problème, ils sont tous dépréciés et c'est impossible de les utiliser dans la version actuelle d'android.
+   
+   </li>
+</ul>
+
+
 
 
 
