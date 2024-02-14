@@ -72,11 +72,22 @@ Pour telecharger le projet, il suffit de cloner le projet en utilisant git dans 
 `` git clone  https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence.git ``
 
 
-Il est important de spécifier que le code de la solution incluant toutes les fonctionalités se trouve dans <b>2023-m2cns-rd-somnolence/src/android/somnolence.zip</b>, il faut le décompresser et l'ouvrir avec android studio.
+Il est important de spécifier que le code de la solution incluant toutes les fonctionalités se trouve dans <b>2023-m2cns-rd-somnolence/src/android/somnolence_final.zip</b>, il faut le décompresser et l'ouvrir avec android studio.
 A partir de celà, on peut modifier le projet comme on veut.
 
 
 <b>Bibliothèque utilisé dans android studio</b>
+<ul>
+  <li><b>Ontologie</b><br>
+L'ontologie 
+  </li>
+  <li><b>Detection de la somnolence par caméra</b><br>
+  </li>
+  <li><b>Detection de la somnolence par smartphone</b><br>
+  </li>
+  <li><b>Alerting</b><br>
+  </li>
+</ul>
 
 <b>Explication du code</b>
 
