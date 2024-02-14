@@ -96,7 +96,7 @@ L'ontologie a développée sur android en utilisant la bibliothèque <a href="ht
   </li>
 
     <li><b>Météo</b><br>
- Pour la météo, on a utilisé API de <a href="https://openweathermap.org/api"><b>Open Weather<b></a>. C'est un site qui propose une api pour obtenir la météo à temps réel en spécifiant une localisation. Le site décrit de manière génerale comment utiliser l'API.
+ Pour la météo, on a utilisé API de <a href="https://openweathermap.org/api"><b>Open Weather</b></a>. C'est un site qui propose une api pour obtenir la météo à temps réel en spécifiant une localisation. Le site décrit de manière génerale comment utiliser l'API.
   </li>
   
 </ul>
@@ -104,11 +104,11 @@ L'ontologie a développée sur android en utilisant la bibliothèque <a href="ht
 <b>Explication du code</b>
 
 Le point d'entrée principale de notre code est le <b>MainActivity</b> qui correspond à la classe principale.
-C'est elle qui permet d'effetuer la configuration et le démerrage du code pour la detection de la somnolence par télephone, de communiquer avec la montre, de recuperer avec la montre et d'effectuer la detection.
+C'est elle qui permet d'effetuer la configuration et le démarrage du code pour la detection de la somnolence par télephone, de communiquer avec la montre, de recuperer avec la montre et d'effectuer la detection.
 
 <img width="954" alt="image" src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/e3e4570f-4384-4e8d-b285-3fcac1261f82">
 
-
+Pour la communication,  
 
   
 </ul>
