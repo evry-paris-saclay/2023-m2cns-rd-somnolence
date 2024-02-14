@@ -291,7 +291,7 @@ Extrait de la séance de remplacement de la batterie (<b>A ne pas reproduire</b>
 
 Utilisation de notre solution lorsque la camera n'est pas disponible  :
 
-<div align="center>
+<div align="center">
 
 | Somnolent                             | Normal                      |
 | ----------------------------------- | ----------------------------------- |
