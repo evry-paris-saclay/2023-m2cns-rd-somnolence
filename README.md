@@ -345,7 +345,7 @@ Utilisation de notre solution lorsque la montre et la camera sont disponibles  (
 La figure ci dessous décrit une scène ou j'ecoutais ma chanson de motivation préféré, j'ai pas reussi à berner le système en faisant semblant :
 <div align="center">
   
-<img src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/175f9576-f9a5-43b4-be08-1d7e7436edf1"80%" height="500px">
+<img src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/175f9576-f9a5-43b4-be08-1d7e7436edf1 width="80%" height="500px">
 
 
 </div>
