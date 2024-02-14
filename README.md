@@ -270,8 +270,6 @@ Avec succés, cela a marché. Les images suivantes décrivent la procédure de r
 
 ![IMG_20240201_174245](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/967d0d06-d94b-49fc-a387-65498824ce38)
 
-![Screenshot_2024-02-14-13-52-18-948_com example somnolence](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/3c95336b-69b0-4a89-b923-125052e22a79)
-
 
 Extrait de la séance de remplacement de la batterie (<b>A ne pas reproduire</b>)
 </div>
@@ -308,40 +306,6 @@ Utilisation de notre solution lorsque la camera n'est pas disponible  :
  
 |
 
-Utilisation de notre solution lorsque la camera n'est pas disponible  :
-
-<div align="center>
-
-| Capture d'ecran 1                            | Capture d'écran  2                        |
-| ----------------------------------- | ----------------------------------- |
-| ![Notification1](link2) | ![notification2](link) |
-
-Utilisation de notre solution lorsque la camera n'est pas disponible  :
-
-<div align="center>
-
-| Capture d'ecran 1                            | Capture d'écran  2                        |
-| ----------------------------------- | ----------------------------------- |
-| ![Notification1](link2) | ![notification2](link) |
-
-Utilisation de notre solution lorsque la camera n'est pas disponible  :
-
-<div align="center>
-
-| Capture d'ecran 1                            | Capture d'écran  2                        |
-| ----------------------------------- | ----------------------------------- |
-| ![Notification1](link2) | ![notification2](link) |
-
-Utilisation de notre solution lorsque la camera n'est pas disponible  :
-
-<div align="center>
-
-| Capture d'ecran 1                            | Capture d'écran  2                        |
-| ----------------------------------- | ----------------------------------- |
-| ![Notification1](link2) | ![notification2](link) |
-
-
-</div>
 La vidéo de demonstration du système est ci-dessous:
 
 <div align="center">
