@@ -115,16 +115,12 @@ Pour executer le code, il ya pas grand chose à changer à part quelques paremè
 
 Les classes qui concernent la communication avec la montre sont :
 <ul>
-  li>GattIO permet d'assurer l'ecriture et la lecture (traduction) vers et depuis la montre. C'est elle qui assure le protocole de communication (cryptage et autres).</li>
+  <li>GattIO permet d'assurer l'ecriture et la lecture (traduction) vers et depuis la montre. C'est elle qui assure le protocole de communication (cryptage et autres).</li>
  <li>MiBand permet de se connecter à la montre et capturer des données à temps réel.</li> 
   <li>Uuid contient l'ensemble des identifiants des services fournis par la montre.</li> 
 </ul>
 
 Pour la detection de somnolence depuis la montre, on fait une juste une comparaison du rythme cardiaque à la reception.
-
-<b>Paramètre à changer</b>
-
-<b>Génération de l'apk pour lancer le projet sur son téléphone</b>
 
 Pour la detection de la somnolence depuis la camera, on utilise les classes :
 <ul>
@@ -135,6 +131,31 @@ Pour la detection de la somnolence depuis la camera, on utilise les classes :
 </ul>
 
 Les repertoires data et utils sont utilisés pour récuperer la météo depuis l'api open weather.
+
+<b>Paramètre à changer</b>
+
+<img width="402" alt="image" src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/ba3134c4-6b98-464a-a5ed-a84d24ddee17">
+
+Les paramètres à changer pour une utiliser une nouvelle montre :
+<ul>
+  
+  <li>macAddress c'est l'adresse mac de la montre. </li>
+  
+  <li>key c'est la clé de chiffrement de la communication pour la montre</li>
+  
+</ul>
+Pour récuperer les paramètres de la montre, il suffit de suivre le tutoriel <a href="https://www.freemyband.com/">suivant</a>.
+
+Les parametre à changer pour la météo :
+<ul>
+  <li>city c'est la ville de l'utilisateur, on pourrait le remplacer par des coordonnées gps</li>
+  <li>apiKey c'est clé de l'api qu'on récupere en s'inscrivant sur openweather</li>
+</ul>
+
+
+<b>Génération de l'apk pour lancer le projet sur son téléphone</b>
+
+La video sur le <a href="https://www.youtube.com/watch?v=RKwFWDFMZME">lien</a> décrit de manière très facile comment effectuer cette opération.
 
 # Difficultés rencontrés sur le projet 
 
