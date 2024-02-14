@@ -265,10 +265,15 @@ Content de cette information, nous décidames de faire cela. On a ouvert la mont
 Avec succés, cela a marché. Les images suivantes décrivent la procédure de remplacement de la batterie :
 
 <div align="center">
+  
 ![IMG_20240201_174448](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/e4ef2e83-6d78-4bbf-b9ae-d0ea998444bf)
+
 ![IMG_20240201_174245](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/967d0d06-d94b-49fc-a387-65498824ce38)
+
 ![IMG_20240201_174445](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/0edc9334-5ccc-44ca-87aa-7af07ad344fe)
+
 ![IMG_20240201_174648](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/0e27db00-5368-4401-935c-6fd17852a23a)
+
 ![IMG_20240201_174251](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/f83b3f1c-3074-4d82-be47-5f34e6757802)
 
 Extrait de la séance de remplacement de la batterie (<b>A ne pas reproduire</b>)
@@ -295,8 +300,11 @@ Utilisation de notre solution lorsque la camera n'est pas disponible  :
 
 | Capture d'ecran 1                            | Capture d'écran  2                        |
 | ----------------------------------- | ----------------------------------- |
+
 | ![Screenshot_2024-02-14-13-55-04-805_com example somnolence](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/282fa0ad-683a-47d9-87a7-d452d28c81a6)
+
  | ![Screenshot_2024-02-14-13-52-18-948_com example somnolence](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/49c3e5b4-84ec-43f0-ac63-263bc4d1adea)
+ 
 |
 
 Utilisation de notre solution lorsque la camera n'est pas disponible  :
