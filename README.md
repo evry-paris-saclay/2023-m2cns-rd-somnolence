@@ -223,8 +223,57 @@ Donc la montre était inutile pour notre solution.
 
 </li>
 
-<li>
+<li><b><a href="https://www.pearl.fr/article/ZX5252/bracelet-fitness-connecte-fbt-47-avec-ecran-tactile">Bracelet fitness connecté FBT-47 </a></b><br>
+Voulant toujours avoir un POC de notre solution, on a tenté l'achat d'une seconde montre Low-cost. Avec cette montre, application propriétaire il était possible d'avoir le rythme cardiaque en temps réel en portant juste la montre.
   
+L'application ne permettait pas de synchroniser les données dans google health connect.
+
+Après de nombreuses, on a entendu par de notions de <b>retro-ingénierie</b>. C'est une technique qui consiste à partir d'un produit finis, de découvrir comme il a été concue. Ainsi de pouvoir reproduire la meme chose.
+
+Notre objective étant de communiquer avec la montre, on a décider de découvir comment la montre communique avec l'application.
+
+On a prémiérement fait du capture de traffic entre la montre et l'application. A partir de la communication, on a reussi à identifier la manière dont se faisait la communication mais aussi on a pu accéder au information inchangés.
+
+On s'est rétrouvé avec des données illisibles. Comme on peut l'avoir ci dessous :
+<img width="959" alt="image" src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/7e876ec2-a1a9-4683-afe4-16c1a6d09fab">
+On recoit une valeur qu'on peut pas déchiffrer. De plus pour reussir à dechiffrer ces données, il faut savoir à quoi correspond chaque emplacement de la chaine de caractère et connaitre le codage utilisé.
+
+Toujours motivé, on a appris que c'etait possible comme déchiffrer cette chaine de caractère en essayant de retrouver le code source de l'application propriétaire (<b>Interdit de réproduite</b>). On a essayé de remonter au code source de l'application en utilisant des décompilateurs:
+<ul>
+  
+  <li>APktool</li>
+  <li>APK Editor</li>
+  
+</ul>
+
+Après nos différentes tentatives sans succés, on a découvert que la communication entre la montre et l'application était chiffré. C'est à dire lors de la première connexion de la montre à l'application, l'application contactait un serveur en ligne pour recevoir une clé permettant le jumelage entre les deux.
+
+Face aux differentes difficultés, on décida d'abondonner car il y'avait aucune chance à hacker la montre ou l'application.
+  
+</li>
+
+<li><b><a href="https://www.amazon.fr/dp/B089NS9JW2?psc=1&ref=ppx_yo2ov_dt_b_product_details">Mi band 5</a></b><br>
+  
+Toujours dans la tentative d'avoir un POC de solution, on a appris qu'il existait un moyen d'avoir le code de chiffrement de la communication entre la Mi band 5 et l'application propriétaire.
+ On passa commande chez amazon pour avoir le produit.
+
+ A la reception du produit, il ne s'allumait. Après avoir contacté le service client, on nous a proposé de renvoyé le produit pour etre rembourser. Cependant l'obscesion de pouvoir avoir un démo a pris le décu.
+ Après des recherches, on a compris que lorsque les mi bands se dechargaient, il était impossible de les allumer. Il fallait booster la batterie via une source externe.
+
+Content de cette information, nous décidames de faire cela. On a ouvert la montre et esssayer d'alimenter la batterie. Cependant la batterie était vraiment morte. Alors on a eu la brillante idée de remplacer la batterie de la Mi Band par l'une de nos deux montres achétés précedement.
+
+Avec succés, cela a marché. Les images suivantes décrivent la procédure de remplacement de la batterie :
+
+<div align="center">
+![IMG_20240201_174448](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/e4ef2e83-6d78-4bbf-b9ae-d0ea998444bf)
+![IMG_20240201_174245](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/967d0d06-d94b-49fc-a387-65498824ce38)
+![IMG_20240201_174445](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/0edc9334-5ccc-44ca-87aa-7af07ad344fe)
+![IMG_20240201_174648](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/0e27db00-5368-4401-935c-6fd17852a23a)
+![IMG_20240201_174251](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/f83b3f1c-3074-4d82-be47-5f34e6757802)
+
+Extrait de la séance de remplacement de la batterie (<b>A ne pas reproduire</b>)
+</div>
+
 </li>
 
   
@@ -239,6 +288,40 @@ Donc la montre était inutile pour notre solution.
 # Démonstration :
 
 
+
+Utilisation de notre solution lorsque la camera n'est pas disponible  :
+
+<div align="center>
+
+| Capture d'ecran 1                            | Capture d'écran  2                        |
+| ----------------------------------- | ----------------------------------- |
+| ![Screenshot_2024-02-14-13-55-04-805_com example somnolence](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/282fa0ad-683a-47d9-87a7-d452d28c81a6)
+ | ![Screenshot_2024-02-14-13-52-18-948_com example somnolence](https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/49c3e5b4-84ec-43f0-ac63-263bc4d1adea)
+|
+
+Utilisation de notre solution lorsque la camera n'est pas disponible  :
+
+<div align="center>
+
+| Capture d'ecran 1                            | Capture d'écran  2                        |
+| ----------------------------------- | ----------------------------------- |
+| ![Notification1](link2) | ![notification2](link) |
+
+Utilisation de notre solution lorsque la camera n'est pas disponible  :
+
+<div align="center>
+
+| Capture d'ecran 1                            | Capture d'écran  2                        |
+| ----------------------------------- | ----------------------------------- |
+| ![Notification1](link2) | ![notification2](link) |
+
+Utilisation de notre solution lorsque la camera n'est pas disponible  :
+
+<div align="center>
+
+| Capture d'ecran 1                            | Capture d'écran  2                        |
+| ----------------------------------- | ----------------------------------- |
+| ![Notification1](link2) | ![notification2](link) |
 
 Utilisation de notre solution lorsque la camera n'est pas disponible  :
 
