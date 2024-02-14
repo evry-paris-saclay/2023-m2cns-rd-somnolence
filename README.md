@@ -185,8 +185,18 @@ L'une des premières problématiques qu'on devait resoudre était d'effectuer de
     <li><b>Implementer l'ontologie sur un serveur et y acceder depuis le smartphone en utilisant une API</b><br>
      
    Pour eviter toute les complications de raisoneur, on a implémenté l'ontologie sous forme d'API. Cépendant on s'est rendue compte qu'à chaque raisonement, on se retrouve avec un temps d'attente très longue.
-
+   <div alin="center">
+     
+   <img width="655" alt="image" src="https://github.com/evry-paris-saclay/2023-m2cns-rd-somnolence/assets/104743493/c4e6d314-453d-4355-a6ca-0e551d32ff71">
    
+   On peut avoir un délai de 3 séconde pour raisonner sur cette capture.
+
+   <br>
+
+   Notre solution serait de garder Chaquopy avec OWL ready 2, et au lieu d'utiliser le reasoneur, on implémente notre propre fonction qui fait le raisonnemen. Vue que l'ontologie est très pétite, et qu'il ya pas beaucoup d'instance, cela dévra etre plus rapide. En plus, l'ontologie restera sur le smartphone et on aura plus besoin de API.
+   
+ </div>
+
    
    </li>
 
