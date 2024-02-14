@@ -159,6 +159,10 @@ La video sur le <a href="https://www.youtube.com/watch?v=RKwFWDFMZME">lien</a> d
 
 # Difficultés rencontrés sur le projet 
 
+> Ontologie  :
+
+L'une des premières problématiques qu'on devait resoudre était d'implementer l'ontologie sur le smartphone.
+
 
 
 
